@@ -1,0 +1,4 @@
+static char auth[] = "Auth Token in the Blynk App";
+
+static char ssid[] = "WiFi SSID";
+static char pass[] = "WiFi PASS";

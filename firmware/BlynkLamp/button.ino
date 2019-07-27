@@ -1,3 +1,4 @@
+/*
 boolean brightDirection;
 
 void buttonTick() {
@@ -57,3 +58,4 @@ void buttonTick() {
     eepromTimer = millis();
   }
 }
+*/
